@@ -1,0 +1,81 @@
+  106  ls
+  107  nano kost.txt
+  108  /bin/python3 /home/kost/project/main.py
+  109  /bin/python3 /home/kost/project/test.py
+  110  /bin/python3 /home/kost/project/test2.py
+  111  /bin/python3 /home/kost/project/worker.py
+  112  /bin/python3 /home/kost/project/master.py
+  113  script session.txt
+  114  /bin/python3 /home/kost/gitcola/test.py
+  115  apt-get install git-cola
+  116  sudo apt-get install git-cola
+  117  ls
+  118  mkdir gitcola
+  119  ls
+  120  cd gitcola
+  121  git status
+  122  git log
+  123  cd git
+  124  ls
+  125  cd test
+  126  git clone --single-branch --branch master https://github.com/k-dubinin/0_git_basics.git
+  127  ls
+  128  nano backup.sh
+  129  script backup.sh
+  130  bash backup.sh
+  131  ls
+  132  cd gti
+  133  cd git
+  134  cd test
+  135  ls
+  136  sudo rm -r 0_git_basics
+  137  ls
+  138  git clone --single-branch --branch master https://github.com/k-dubinin/0_git_basics.git .
+  139  ls
+  140  git clone --single-branch --branch master https://github.com/k-dubinin/0_git_basics.git .
+  141  ls
+  142  git status
+  143  ls
+  144  git status
+  145  git add .
+  146  nano backup.sh
+  147  git commit -m "Added  script"
+  148  git push
+  149  git remote set-url origin git@github.com:k-dubinin/0_git_basics.git
+  150  git push -u origin master
+  151  nano backup.sh
+  152  git status
+  153  git add .
+  154  git commit -m "Added  comment"
+  155  nano backup.sh
+  156  bash backup.sh
+  157  git add .
+  158  git commit -m "Something got wrong..."
+  159  bash backup.sh
+  160  cat backup.sh
+  161  git log
+  162  git log --oneline
+  163  git checkout 0dbf928 
+  164  git log --oneline
+  165  bash backup.sh
+  166  history
+  167  cd
+  168  git clone --single-branch --branch master https://github.com/k-dubinin/1_echo_server.git
+  169  ls
+  170  cd 1_echo_server 
+  171  ls
+  172  cat client.py
+  173  cat server.py
+  174  nano server.py
+  175  nano client.py
+  176  python3 server.py
+  177  nano server.py
+  178  python3 server.py
+  179  nano client.py
+  180  python3 server.py
+  181  nano server.py
+  182  python3 server.py
+  183  nano server.py
+  184  python3 server.py
+  185  python3 client.py
+  186  history
